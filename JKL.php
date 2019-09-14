@@ -1,3 +1,6 @@
+clear
+#!/bin/bash
+
 <?php
 $username = "WARGA";
 $password = "+62";
